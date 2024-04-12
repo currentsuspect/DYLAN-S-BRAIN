@@ -7,8 +7,8 @@ Certainly, creating a comprehensive table of contents for Git and GitHub would b
    - Benefits of Version Control
    - Types of Version Control Systems
 
-2. **Understanding Git**
-   - What is Git?
+2. **[[Understanding Git]]**
+   - What is Git? 
    - Git vs. Other Version Control Systems
    - Basic Concepts:
      - Repository
