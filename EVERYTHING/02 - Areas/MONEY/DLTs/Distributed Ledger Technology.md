@@ -11,14 +11,14 @@ cssclasses:
 
 ---
 
-2. **Fundamentals of Distributed Ledger Systems**
+2. **[[Fundamentals of Distributed Ledger Systems]]**
    - Understanding Distributed Systems
    - Principles of Decentralization
    - Consensus Mechanisms
 
 ---
 
-3. **Types of Distributed Ledgers**
+3. **[[Types of Distributed Ledgers]]**
    - Blockchain Technology
    - Directed Acyclic Graphs (DAGs)
    - Hashgraph Technology
@@ -26,14 +26,14 @@ cssclasses:
 
 ---
 
-4. **Key Components of Distributed Ledgers**
+4. **[[Key Components of Distributed Ledgers]]**
    - Nodes and Peer-to-Peer Networks
    - Cryptography and Digital Signatures
    - Data Structures: Blocks, Chains, and Transactions
 
 ---
 
-5. **Advantages of Distributed Ledger Technology**
+5. **[[Advantages of Distributed Ledger Technology]]**
    - Decentralization and Trustlessness
    - Transparency and Immutability
    - Security and Resilience
@@ -41,7 +41,7 @@ cssclasses:
 
 ---
 
-6. **Challenges and Limitations**
+6. **[[Challenges and Limitations]]**
    - Scalability Issues
    - Energy Consumption
    - Regulatory and Compliance Challenges
@@ -49,7 +49,7 @@ cssclasses:
 
 ---
 
-7. **Applications and Use Cases**
+7. **[[Applications and Use Cases]]**
    - Cryptocurrencies (Bitcoin, Ethereum, etc.)
    - Supply Chain Management
    - Voting Systems
@@ -59,7 +59,7 @@ cssclasses:
 
 ---
 
-8. **Industry Adoption and Implementation**
+8. **[[Industry Adoption and Implementation]]**
    - Financial Services Sector
    - Supply Chain and Logistics
    - Healthcare Industry
@@ -68,7 +68,7 @@ cssclasses:
 
 ---
 
-9. **Emerging Trends and Innovations**
+9. **[[Emerging Trends and Innovations]]**
    - Interoperability Solutions
    - Layer 2 Protocols (e.g., Lightning Network)
    - Central Bank Digital Currencies (CBDCs)
@@ -76,21 +76,21 @@ cssclasses:
 
 ---
 
-10. **Regulatory and Legal Considerations**
+10. **[[Regulatory and Legal Considerations]]**
     - Regulatory Frameworks Worldwide
     - Compliance Challenges and Solutions
     - Intellectual Property and Data Privacy Issues
 
 ---
 
-11. **Future Outlook and Predictions**
+11. **[[Future Outlook and Predictions]]**
     - Potential Disruptive Impact
     - Evolution of Distributed Ledger Technology
     - Adoption Trends and Challenges
 
 ---
 
-12. **Conclusion**
+12. **[[Conclusion On Distributed Ledgers]]**
     - Summary of Key Points
     - Reflection on the Potential of Distributed Ledgers
     - Call to Action for Further Research and Development
