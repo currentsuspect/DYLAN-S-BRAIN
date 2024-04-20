@@ -76,3 +76,6 @@ An aura is an energy field that surrounds living beings, including humans, anima
 The higher the emotion the higher the frequency in the chart so the lower the emotion the lower the frequency more on this here: [[Vitality Tone and Attitude Scale| VTA ]]
 
 
+RIP ZODIAK
+
+https://www.youtube.com/watch?v=lj5pmfF0o5E
