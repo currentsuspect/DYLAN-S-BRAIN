@@ -1,0 +1,16 @@
+{
+  "accentColor": "#f55c5c",
+  "cssTheme": "Vanilla AMOLED",
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "enabledCssSnippets": [
+    "Iterative Rainbow Folder Titles",
+    "Daily Note Themes",
+    "dashboard",
+    "Notebook Backgrounds",
+    "Minecraft",
+    "RuneScape"
+  ],
+  "nativeMenus": false,
+  "baseFontSize": 18
+}

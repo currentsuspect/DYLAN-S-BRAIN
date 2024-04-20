@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "a629a3bb653a21b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a23bd53d0cf78b6",
+        "type": "split",
+        "children": [
+          {
+            "id": "f9f06b7cd63bf5df",
+            "type": "tabs",
+            "dimension": 73.65900383141762,
+            "children": [
+              {
+                "id": "9bc44d91b0141293",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "EVERYTHING/00 - Maps of Content/EVERYTHING.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "eb6013eb8bdf101a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "EVERYTHING/00 - Maps of Content/!.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "fae03b70280b0c69",
+            "type": "split",
+            "dimension": 26.340996168582375,
+            "children": [
+              {
+                "id": "d18bd9e348c7038b",
+                "type": "tabs",
+                "dimension": 57.702349869451695,
+                "children": [
+                  {
+                    "id": "c1355e32cd506bd5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "calendar",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "0783ff6c14571c66",
+                "type": "tabs",
+                "dimension": 42.297650130548305,
+                "children": [
+                  {
+                    "id": "71376b0253f0eb1e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ee5d076a8dfc5a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d9b3726d93f6cfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0c1fa4f1ccc7902",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "423b19eb6eacb7d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c26c76386cd937f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "8958ffb89fbb3311",
+    "type": "split",
+    "children": [
+      {
+        "id": "e04a146618f40d5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d4c60b8422c4916",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EVERYTHING/00 - Maps of Content/!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76cf3c43367a10b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EVERYTHING/00 - Maps of Content/!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50678ac1425c2edc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EVERYTHING/00 - Maps of Content/!.md"
+              }
+            }
+          },
+          {
+            "id": "d9d4f7a758b160bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fd5e183718115dd4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7ed2e4a8668853a3",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              }
+            }
+          },
+          {
+            "id": "8c052850cf6350bc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "eb6013eb8bdf101a",
+  "lastOpenFiles": [
+    "EVERYTHING/00 - Maps of Content/EVERYTHING.md",
+    "EVERYTHING/00 - Maps of Content/!.md",
+    "EVERYTHING/01 - Projects/ECHOES AND EUPHORIA/Echoes And Euphoria (ALBUM).md",
+    "EVERYTHING/06 - Daily/2024-04-20.md",
+    "2024-04-21.md",
+    "EVERYTHING/04 - Permanent/Psychology/Table of Content/PSYCHOLOGY.md",
+    "EVERYTHING/05 - Fleeting/changeLog.md",
+    "EVERYTHING/02 - Areas/ECONOMICS/Microeconomics.md",
+    "EVERYTHING/02 - Areas/ECONOMICS/ECONOMICS.md",
+    "EVERYTHING/02 - Areas/ECONOMICS/Behavioral Economics and Money.md",
+    "EVERYTHING/02 - Areas/MONEY/DLTs/Distributed Ledger Technology.md",
+    "EVERYTHING/02 - Areas/MONEY/DLTs/Introduction to Distributed Ledger Technology.md",
+    "EVERYTHING/06 - Daily/2024-04-16.md",
+    "EVERYTHING/02 - Areas/MONEY/CBDCs/Central bank digital currencies.md",
+    "EVERYTHING/02 - Areas/Git & Git Hub/Git & Git-hub.md",
+    "EVERYTHING/06 - Daily/2024-04-15.md",
+    "EVERYTHING/06 - Daily/2024-04-14.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency Mining.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Regulation and Legal Considerations.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Wallets and Storage.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency Exchanges.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Altcoins and Tokens.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Major Cryptocurrencies.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Understanding Blockchain Technology.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Introduction to Cryptocurrency.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency",
+    "EVERYTHING/04 - Permanent/Artificial Intelligence",
+    "EVERYTHING/02 - Areas/Git & Git Hub",
+    "EVERYTHING/04 - Permanent/Quantum Mechanics/Untitled",
+    "EVERYTHING/04 - Permanent/Quantum Mechanics",
+    "EVERYTHING/02 - Areas/Mathematics",
+    "EVERYTHING/03 - Resources/Meta Learning",
+    "EVERYTHING/02 - Areas/Coding/Python",
+    "EVERYTHING/02 - Areas/Coding",
+    "EVERYTHING/99 - Meta/Bin/9fea5e39c6c30cdfec96ec7c0204752f 1.webp",
+    "EVERYTHING/99 - Meta/Bin/9fea5e39c6c30cdfec96ec7c0204752f.webp",
+    "EVERYTHING/99 - Meta/Bin/7275f361a2842db952162370c25da8d3.webp",
+    "EVERYTHING/04 - Permanent/Self-Mastery",
+    "EVERYTHING/99 - Meta/Bin/bb5cbccab13a4a4e651a942f9abfee83b26e8ac9.webp",
+    "EVERYTHING/99 - Meta/Bin/image.webp",
+    "EVERYTHING/99 - Meta/Bin/cio-distributed__vs_central_ledger-f_mobile.webp",
+    "EVERYTHING/99 - Meta/Bin/distributed_ledger_uses.webp",
+    "EVERYTHING/99 - Meta/Bin/cerebral-cortex.webp",
+    "EVERYTHING/99 - Meta/Bin/Brain_chrischan_thalamus.webp",
+    "EVERYTHING/99 - Meta/Bin/Vitality_Tone_Scale_Newest--1024x680.webp",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

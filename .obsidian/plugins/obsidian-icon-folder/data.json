@@ -1,0 +1,49 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "💭",
+      "♎",
+      "LiCrown",
+      "LiBan",
+      "LiLock"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "EVERYTHING/00 - Maps of Content": "LiMap",
+  "EVERYTHING/01 - Projects": "LiBookOpen",
+  "EVERYTHING/03 - Resources": "🔎",
+  "EVERYTHING/05 - Fleeting": "💭",
+  "EVERYTHING/07 - Archives": "LiArchiveX",
+  "EVERYTHING/06 - Daily": "LiCalendarDays",
+  "EVERYTHING/99 - Meta": "LiBan",
+  "EVERYTHING/05 - Fleeting/changeLog.md": "♎",
+  "EVERYTHING/02 - Areas": "LiGlobe",
+  "EVERYTHING/04 - Permanent": "LiLock",
+  "EVERYTHING": {
+    "iconName": "LiCrown",
+    "iconColor": "#0400ff"
+  },
+  "EVERYTHING/01 - Projects/ECHOES AND EUPHORIA/Echoes And Euphoria (ALBUM).md": "LiDisc",
+  "EVERYTHING/00 - Maps of Content/EVERYTHING.md": "LiHome",
+  "EVERYTHING/05 - Fleeting/Self Therapy.md": "♎",
+  "EVERYTHING/05 - Fleeting/My Agency In life.md": "💭"
+}
