@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "EVERYTHING/00 - Maps of Content/!.md",
+      "timestamp": 1713633404064
+    },
+    {
+      "filepath": "EVERYTHING/00 - Maps of Content/EVERYTHING.md",
+      "timestamp": 1713633401776
+    },
+    {
+      "filepath": "EVERYTHING/01 - Projects/ECHOES AND EUPHORIA/Echoes And Euphoria (ALBUM).md",
+      "timestamp": 1713627639764
+    },
+    {
+      "filepath": "EVERYTHING/06 - Daily/2024-04-20.md",
+      "timestamp": 1713627601178
+    },
+    {
+      "filepath": "EVERYTHING/04 - Permanent/Psychology/CONTENTS/Cognitive Load.md",
+      "timestamp": 1713292822221
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}

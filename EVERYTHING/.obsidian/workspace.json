@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "590dcc455f43d067",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f8b12f7edf03e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad05f3c9a2295b3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/MAIN/20240626.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a05256be25d73fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Fleeting/Self Therapy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c4d6f963495e322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/Philosophy/Biases/Introduction to Cognitive Biases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "156571be2087b811",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c1c09eba6dab563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64cb1d2052328df7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61f849b5795c11b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5151c31d933c4280",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "824dc71c3bff494e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9a41ae8e50c03073",
+    "type": "split",
+    "children": [
+      {
+        "id": "d39061af86fb9542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de4b74f0bcd73deb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04 - Permanent/Philosophy/Biases/Introduction to Cognitive Biases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcc79ae8b03124ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04 - Permanent/Philosophy/Biases/Introduction to Cognitive Biases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77028d59bed34d78",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1380173664caeebf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "bc30f5939fc7db59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 - Permanent/Philosophy/Biases/Introduction to Cognitive Biases.md"
+              }
+            }
+          },
+          {
+            "id": "7aade45d89c9f1a8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "64cb1d2052328df7",
+  "lastOpenFiles": [
+    "04 - Permanent/Philosophy/Logic",
+    "04 - Permanent/Philosophy/Biases",
+    "1.md",
+    "04 - Permanent/Philosophy/Biases/Introduction to Cognitive Biases.md",
+    "04 - Permanent/Philosophy/Biases/Biases.md",
+    "05 - Fleeting/changelog june 2024.md",
+    "05 - Fleeting/Self Therapy.md",
+    "01 - Projects/ECHOES AND EUPHORIA/DOCUMENTARY.md",
+    "06 - Daily/MAIN/20240627.md",
+    "06 - Daily/MAIN/20240626.md",
+    "01 - Projects/Operation Pass KNEC/Stategy.md",
+    "01 - Projects/Urban Bloom/Project works.md",
+    "01 - Projects/Urban Bloom/JULY 20 PROJECTION.md",
+    "01 - Projects/Urban Bloom/Meeting 22.06.24.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/Encapsulation.md",
+    "06 - Daily/MAIN/tables.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/Introduction to OOP.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/Basics of C++.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/Table Of Content.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++",
+    "06 - Daily/MAIN/20240625.md",
+    "06 - Daily/MAIN/20240614.md",
+    "06 - Daily/MAIN/20240622.md",
+    "06 - Daily/MAIN/20240620.md",
+    "01 - Projects/Operation Pass KNEC",
+    "06 - Daily/MAIN/20240615.md",
+    "01 - Projects/Urban Bloom",
+    "02 - Areas/Ethical Hacking/OS Detection.md",
+    "02 - Areas/Coding/Python/Basic Python Syntax.md",
+    "02 - Areas/Ethical Hacking/Host Discovery and Target Specification.md",
+    "02 - Areas/Ethical Hacking"
+  ]
+}
