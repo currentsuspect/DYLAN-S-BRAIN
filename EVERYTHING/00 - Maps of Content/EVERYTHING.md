@@ -9,24 +9,25 @@ tags:
   - Archives
   - Meta
 cssclasses:
-  - page-grid
-  - pen-green
   - minecraft
+  - pen-blue
 ---
 > Dylan: If you don't understand a word or meaning of something just kill your ego and google it. 
 # PROJECTS
 [[Echoes And Euphoria (ALBUM)]]
+[[Operation Pass KNEC]]
 
 ---
 # AREAS
 [[ECONOMICS]]
 [[PROMPT ENGINEERING|!|PROMPT ENGINEERING]]
 [[LINGUISTICS|!|LINGUISTICS]]
-[[MONEY]]
+[[Money]]
 [[PROMPT ENGINEERING]]
 
 ---
 # RESOURCES
+[[Books]]
 [[Explained]]
 [[Where to get what (online mostly)]]
 

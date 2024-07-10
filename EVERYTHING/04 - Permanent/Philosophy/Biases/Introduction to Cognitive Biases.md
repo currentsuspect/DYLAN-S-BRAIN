@@ -1,8 +1,16 @@
-### Chapter 1: Introduction to Cognitive Biases
+---
+cssclasses:
+  - center-titles
+  - center-images
+  - page-grid
+  - pen-blue
+---
+
+# Chapter 1: Introduction to Cognitive Biases
 
 ---
 
-#### **1.1 Definition and Origins**
+## **1.1 Definition and Origins**
 
 Cognitive biases are systematic patterns of deviation from rationality in judgment. These biases often result from the brain's attempt to simplify information processing, which leads to mental shortcuts known as heuristics. While heuristics can be efficient, they can also cause errors in judgment and decision-making.
 
@@ -13,7 +21,7 @@ Cognitive biases are systematic patterns of deviation from rationality in judgme
 
 ---
 
-#### **1.2 Importance of Understanding Cognitive Biases**
+## **1.2 Importance of Understanding Cognitive Biases**
 
 Understanding cognitive biases is crucial for several reasons:
 - **Improved Decision-Making:** By recognizing our biases, we can make more rational and informed decisions.
@@ -28,7 +36,7 @@ Understanding cognitive biases is crucial for several reasons:
 
 ---
 
-#### **1.3 The Role of Cognitive Biases in Daily Life**
+## **1.3 The Role of Cognitive Biases in Daily Life**
 
 Cognitive biases influence various aspects of our lives, from the trivial to the significant. Here are some everyday examples:
 
@@ -43,7 +51,7 @@ Cognitive biases influence various aspects of our lives, from the trivial to the
 
 ---
 
-### **1.4 Practical Examples and Thought Experiments**
+## **1.4 Practical Examples and Thought Experiments**
 
 #### **Example 1: Anchoring in Action**
 Imagine you're buying a car. The salesperson initially shows you a high-end model priced at $50,000. Later, they show you a more reasonably priced model at $30,000. Because of the initial high price, the $30,000 car seems like a bargain, even if it's more than you intended to spend. This is anchoring bias at work.
@@ -56,7 +64,7 @@ Consider two scenarios: one where you read about a plane crash in the news and a
 
 ---
 
-### **1.5 Visual Aids and Infographics**
+## **1.5 Visual Aids and Infographics**
 
 #### **Infographic 1: The Cognitive Bias Codex**
 An extensive infographic that categorizes and visualizes various cognitive biases. This can help in understanding the breadth and interconnectedness of different biases.
@@ -66,7 +74,7 @@ A visual representation of common situations affected by cognitive biases, such 
 
 ---
 
-### **1.6 Exercises and Reflection**
+## **1.6 Exercises and Reflection**
 
 #### **Exercise 1: Identifying Biases in Your Day**
 Keep a journal for a week, noting instances where you might have been influenced by cognitive biases. Reflect on these entries and consider how awareness of these biases might have changed your behavior or decisions.
@@ -82,20 +90,26 @@ Practice specific debiasing techniques such as seeking out disconfirming evidenc
 ---
 
 ### **1.7 Further Reading and Resources**
+Try Reading these resources: 
 
 - **Books:**
-  - *Thinking, Fast and Slow* by Daniel Kahneman
-  - *Predictably Irrational* by Dan Ariely
-  - *The Art of Thinking Clearly* by Rolf Dobelli
+  - [ ] *Thinking, Fast and Slow* by Daniel Kahneman.
+
+---
+  ![[Daniel-Kahneman-Thinking-Fast-and-Slow-.pdf]]
+---
+
+  - [ ] *Predictably Irrational* by Dan Ariely
+  - [ ] *The Art of Thinking Clearly* by Rolf Dobelli
 
 - **Articles:**
-  - "The Cognitive Bias Codex" by John Manoogian III
-  - "Cognitive Biases: A Brief Overview" by Scott Plous
+  - [ ] "The Cognitive Bias Codex" by John Manoogian III
+  - [ ] "Cognitive Biases: A Brief Overview" by Scott Plous
 
 - **Online Resources:**
-  - Cognitive Biases on Wikipedia
-  - You Are Not So Smart Podcast by David McRaney
-  - The Decision Lab: Insights on Behavioral Science
+  - [ ] Cognitive Biases on Wikipedia
+  - [ ] You Are Not So Smart Podcast by David McRaney
+  - [ ] The Decision Lab: Insights on Behavioral Science
 
 ---
 
@@ -104,5 +118,3 @@ Practice specific debiasing techniques such as seeking out disconfirming evidenc
 Cognitive biases are an integral part of human psychology, shaping our decisions, beliefs, and interactions. Understanding these biases is the first step towards mitigating their impact and making more rational, informed choices. By exploring the origins, implications, and practical examples of cognitive biases, we gain valuable insights into the workings of the human mind and the potential for personal growth and improved decision-making.
 
 ---
-
-Feel free to let me know if there's any particular section you'd like to dive deeper into or if you have any specific questions!

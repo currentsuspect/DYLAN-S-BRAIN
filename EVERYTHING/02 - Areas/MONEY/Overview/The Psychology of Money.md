@@ -1,4 +1,3 @@
-Absolutely, let's delve into Chapter 2: **The Psychology of Money**.
 
 ---
 

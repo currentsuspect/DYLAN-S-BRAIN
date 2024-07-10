@@ -4,7 +4,7 @@
 
 - **Definition**: Behavioral economics is a field of study that combines insights from psychology and economics to understand how individuals make decisions about money and other resources.
 - **Key Principles**: Unlike traditional economics, which assumes rational decision-making, behavioral economics recognizes that human behavior is often influenced by cognitive biases, emotions, and social factors.
-- **Contributions**: Behavioral economics has shed light on various phenomena, such as irrational financial choices, suboptimal decision-making, and the role of social norms in economic behavior.
+- **Contributions**: Behavioral economics has shed light on various phenomena, such as irrational financial choices, sub-optimal decision-making, and the role of social norms in economic behavior.
 
 **2. [[Cognitive Bias|Cognitive Biases]] in Financial Decision Making**:
 

@@ -1,4 +1,6 @@
-Alright, let's dive into encapsulation in object-oriented programming (OOP) using C++. Encapsulation is a fundamental concept that promotes data hiding and bundling of data with the methods (or functions) that operate on that data within a class. This helps in achieving better control over the code and ensures that objects are used in a consistent and secure manner.
+---
+cssclasses:
+---
 
 Alright, let's break down what encapsulation means in a simpler way:
 

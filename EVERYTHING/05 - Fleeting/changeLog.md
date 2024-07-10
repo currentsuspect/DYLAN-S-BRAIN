@@ -19,7 +19,7 @@ Wednesday [[2024-04-03]]
 I learnt that universal basic incomes are one way to cope with poverty and help balance the rich-to-poor ratio. Although not fully understood due to lack of proper research and how expensive this project is its a very beneficial idea and should be reviewed.
 
 ### Growth mindset
-I believe that everyone should adopt a growth mindset. the mindset that you can never fully know about everything and that one should be open minded and fully aware that life everyone started out knowing nothing and its the growth mindset that allowed us to reach where we are now...so adapt it quiet your ego and live your life just like you did as a kid...full of curiosity and hungry for knowledge and truly...we can succeed in life 
+I believe that everyone should adopt a growth mindset. the mindset that you can never fully know about everything and that one should be open minded and fully aware that life everyone started out knowing nothing and its the growth mindset that allowed us to reach where we are now...so adopt it [[quiet your ego]] and live your life just like you did as a kid...full of curiosity and hungry for knowledge and truly...we can succeed in life 
 
 ### Solipsism
 I am a strong believer of **Solipsism**: The belief that there is nothing else in existence other than the mind. 

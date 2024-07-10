@@ -1,5 +1,5 @@
 # BOOKS
-- https://www.pdfdrive.com/
+- https://www.pdfdrive.com/ (free)
 
 # Movies
 - https://www.fmoviesz.to/ (free)

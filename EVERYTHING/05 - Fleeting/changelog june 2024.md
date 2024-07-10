@@ -66,3 +66,11 @@
 4. **Stay Curious:** Philosophy can be challenging, but staying curious and open-minded will keep you motivated.
 
 In my opinion, I think that the best way to approach philosophy is to mix reading with multimedia resources and discussions. This helps to reinforce what you've learned and see different perspectives on the same ideas. Enjoy your philosophical journey, my student!
+
+---
+
+Book Recommendations
+
+---
+1. A theory of Everything by Ken Wilber. 
+2. Sex, Ecology, Spirituality.
