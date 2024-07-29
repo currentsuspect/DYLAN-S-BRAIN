@@ -45,10 +45,13 @@
 	padding: 10px 0 0;
 }
 
+<<<<<<< HEAD
 #nv-main-setting #nv-desc.mod-warning {
 	color: var(--text-error);
 }
 
+=======
+>>>>>>> origin/main
 #nv-main-setting #nv-desc code {
 	font-family: var(--font-monospace);
 	font-size: var(--font-smaller);
@@ -81,16 +84,21 @@
 	border: 1px solid var(--background-modifier-border-hover);
 	border-radius: var(--radius-s);
 	font-size: var(--font-ui-small);
+<<<<<<< HEAD
 	padding: var(--size-2-1) var(--size-2-2) var(--size-2-1) var(--size-2-3) ;
 }
 
 .nv-command-pill.nv-command-invalid {
 	color: var(--text-faint);
+=======
+	padding: var(--size-2-1) var(--size-2-3);
+>>>>>>> origin/main
 }
 
 .nv-command-pill button {
 	display: inline-block;
 	padding: 0;
+<<<<<<< HEAD
 	margin: 0 0 0 3px;
 	vertical-align: bottom;
 }
@@ -114,10 +122,18 @@
 }
 
 .nv-command-pill > .svg-icon, .nv-command-pill button .svg-icon {
+=======
+	margin: 0 0 0 var(--size-2-3);
+	vertical-align: bottom;
+}
+
+.nv-command-pill button svg {
+>>>>>>> origin/main
 	height: 1em;
 	width: 1em;
 }
 
+<<<<<<< HEAD
 .nv-command-pill > .svg-icon {
 	vertical-align: text-bottom;
 	position: relative;
@@ -128,6 +144,8 @@
 	background-color: transparent;
 }
 
+=======
+>>>>>>> origin/main
 .nv-command-add-button {
 	font-size: var(--font-ui-small);
 	padding: var(--size-2-2) var(--size-4-2);
@@ -169,6 +187,7 @@
 .is-phone .nv-command-pill button, .is-phone .nv-command-add-button {
 	width: auto;
 }
+<<<<<<< HEAD
 
 .nv-mobile-setting {
 	flex-wrap: wrap;
@@ -180,3 +199,5 @@
 	width: 100%;
 	margin-right: var(--size-4-18);
 }
+=======
+>>>>>>> origin/main

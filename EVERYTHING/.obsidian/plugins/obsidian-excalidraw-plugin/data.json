@@ -1,5 +1,6 @@
 {
   "folder": "",
+<<<<<<< HEAD
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -9,6 +10,14 @@
   "decompressForMDView": false,
   "onceOffCompressFlagReset": true,
   "autosave": true,
+=======
+  "embedUseExcalidrawFolder": false,
+  "templateFilePath": "Excalidraw/Template.excalidraw",
+  "scriptFolderPath": "Excalidraw/Scripts",
+  "compress": false,
+  "autosave": true,
+  "autosaveInterval": 10000,
+>>>>>>> origin/main
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
   "drawingFilenamePrefix": "ED-",
@@ -16,6 +25,7 @@
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYYMMDDHHmm",
   "useExcalidrawExtension": true,
+<<<<<<< HEAD
   "cropPrefix": "cropped_",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
@@ -26,6 +36,13 @@
   "previewMatchObsidianTheme": false,
   "width": "400",
   "height": "",
+=======
+  "previewImageType": "SVGIMG",
+  "allowImageCache": true,
+  "displayExportedImageIfAvailable": false,
+  "previewMatchObsidianTheme": false,
+  "width": "400",
+>>>>>>> origin/main
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
@@ -34,10 +51,13 @@
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",
+<<<<<<< HEAD
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
+=======
+>>>>>>> origin/main
   "allowPinchZoom": false,
   "allowWheelZoom": false,
   "zoomToFitOnOpen": true,
@@ -51,8 +71,11 @@
   "hoverPreviewWithoutCTRL": false,
   "linkOpacity": 1,
   "openInAdjacentPane": false,
+<<<<<<< HEAD
   "showSecondOrderLinks": true,
   "focusOnFileTab": false,
+=======
+>>>>>>> origin/main
   "openInMainWorkspace": true,
   "showLinkBrackets": true,
   "allowCtrlClick": true,
@@ -65,7 +88,10 @@
   "exportWithTheme": true,
   "exportWithBackground": false,
   "exportPaddingSVG": 10,
+<<<<<<< HEAD
   "exportEmbedScene": false,
+=======
+>>>>>>> origin/main
   "keepInSync": false,
   "autoexportSVG": false,
   "autoexportPNG": false,
@@ -78,12 +104,17 @@
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
+<<<<<<< HEAD
   "fadeOutExcalidrawMarkup": false,
   "loadPropertySuggestions": true,
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",
   "addDummyTextElement": false,
   "zoteroCompatibility": false,
+=======
+  "experimentalEnableFourthFont": false,
+  "experimantalFourthFont": "Virgil",
+>>>>>>> origin/main
   "fieldSuggester": true,
   "compatibilityMode": false,
   "drawingOpenCount": 0,
@@ -103,7 +134,11 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
+<<<<<<< HEAD
   "previousRelease": "2.2.8",
+=======
+  "previousRelease": "2.0.17",
+>>>>>>> origin/main
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
@@ -742,10 +777,14 @@
       }
     }
   },
+<<<<<<< HEAD
   "slidingPanesSupport": false,
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
   "longPressMobile": 500,
   "isDebugMode": false,
   "autosaveInterval": 15000
+=======
+  "slidingPanesSupport": false
+>>>>>>> origin/main
 }

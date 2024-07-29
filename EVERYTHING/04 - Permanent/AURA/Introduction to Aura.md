@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - pen-purple
+<<<<<<< HEAD
 date: 2024-06-29T19:54:00
 tags:
   - Aura
@@ -8,6 +9,8 @@ aliases:
   - Aura
 transcription:
   - English
+=======
+>>>>>>> origin/main
 ---
 
 ---

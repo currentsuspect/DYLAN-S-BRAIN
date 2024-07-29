@@ -13,6 +13,7 @@
   "templater-obsidian",
   "calendar",
   "homepage",
+<<<<<<< HEAD
   "obsidian-advanced-slides",
   "nldates-obsidian",
   "obsidian-latex-suite",
@@ -20,4 +21,7 @@
   "obsidian-mkdocs-publisher",
   "github-sync",
   "obsidian-relative-line-numbers"
+=======
+  "obsidian-advanced-slides"
+>>>>>>> origin/main
 ]

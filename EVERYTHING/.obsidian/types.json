@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "datetime",
+<<<<<<< HEAD
     "transcription": "multitext",
     "excalidraw-plugin": "text",
     "excalidraw-export-transparent": "checkbox",
@@ -25,5 +26,8 @@
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox"
+=======
+    "transcription": "multitext"
+>>>>>>> origin/main
   }
 }

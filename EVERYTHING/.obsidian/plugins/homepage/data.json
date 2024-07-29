@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "version": 4,
+=======
+  "version": 3,
+>>>>>>> origin/main
   "homepages": {
     "Main Homepage": {
       "value": "Home",

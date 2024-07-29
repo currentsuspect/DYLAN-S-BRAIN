@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .iconize-inline-title-wrapper {
   width: var(--line-width);
   margin-inline: var(--content-margin);
@@ -12,6 +13,12 @@
   transform: translateY(20%);
   margin-right: var(--size-2-2);
   display: inline-flex;
+=======
+.iconize-title-icon {
+  max-width: var(--max-width);
+  width: var(--line-width);
+  margin-inline: var(--content-margin) !important;
+>>>>>>> origin/main
 }
 
 .iconize-icon {
@@ -27,6 +34,13 @@
   align-items: center;
 }
 
+<<<<<<< HEAD
+=======
+.iconize-setting .setting-item-control .dropdown {
+  margin-right: 12px;
+}
+
+>>>>>>> origin/main
 .iconize-setting input[type='color'] {
   margin: 0 6px;
 }
@@ -71,7 +85,12 @@
   line-height: 1.3;
 }
 
+<<<<<<< HEAD
 .iconize-modal.prompt-results .suggestion-item.suggestion-item__center {
+=======
+.iconize-modal.prompt-results
+  .suggestion-item.suggestion-item__center {
+>>>>>>> origin/main
   justify-content: center;
 }
 
@@ -107,13 +126,25 @@
 }
 
 /* Custom rule modal. */
+<<<<<<< HEAD
 .iconize-custom-modal .modal-content {
+=======
+.iconize-custom-rule-modal .modal-title h3 {
+  margin: 0;
+}
+
+.iconize-custom-rule-modal .modal-content {
+>>>>>>> origin/main
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
+<<<<<<< HEAD
 .iconize-custom-modal .modal-content input {
+=======
+.iconize-custom-rule-modal .modal-content input {
+>>>>>>> origin/main
   width: 100%;
   margin-right: 0.5rem;
 }

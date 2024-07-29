@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Certainly! Let's embark on a journey through the fascinating history of money, highlighting key milestones along the way with timestamps:
+>>>>>>> origin/main
 
 ---
 
@@ -8,9 +12,13 @@
 **1. Prehistoric Times (10,000 BCE - 3,000 BCE)**
 
 
+<<<<<<< HEAD
 - **Barter Systems**: In early human societies, people exchanged goods and services directly through barter.
 
 - For example, a farmer might trade a bushel of wheat for a piece of cloth from a weaver.
+=======
+- **Barter Systems**: In early human societies, people exchanged goods and services directly through barter. For example, a farmer might trade a bushel of wheat for a piece of cloth from a weaver.
+>>>>>>> origin/main
 
 ---
 

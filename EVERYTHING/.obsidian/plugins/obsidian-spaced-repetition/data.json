@@ -6,6 +6,7 @@
     "flashcardTags": [
       "#Japanese/Kanji",
       "#Japanese/Vocabulary",
+<<<<<<< HEAD
       "#Japanese/Misc",
       "#SystemAnalysis",
       "#ObjectOriented",
@@ -13,6 +14,9 @@
       "#QuantitativeTechniques",
       "#CA2",
       "#DBMS"
+=======
+      "#Japanese/Misc"
+>>>>>>> origin/main
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": true,
@@ -20,9 +24,13 @@
     "showContextInCards": false,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 100,
+<<<<<<< HEAD
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
+=======
+    "randomizeCardOrder": true,
+>>>>>>> origin/main
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
@@ -50,7 +58,11 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
+<<<<<<< HEAD
   "buryDate": "2024-07-29",
+=======
+  "buryDate": "2024-03-18",
+>>>>>>> origin/main
   "buryList": [],
   "historyDeck": null
 }

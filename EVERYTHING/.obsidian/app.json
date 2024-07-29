@@ -11,8 +11,12 @@
   "propertiesInDocument": "visible",
   "autoPairBrackets": false,
   "readableLineLength": true,
+<<<<<<< HEAD
   "spellcheck": true,
   "newFileLocation": "current",
   "vimMode": true,
   "showLineNumber": true
+=======
+  "spellcheck": true
+>>>>>>> origin/main
 }

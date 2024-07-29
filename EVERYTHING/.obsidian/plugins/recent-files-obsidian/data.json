@@ -1,5 +1,6 @@
 {
   "recentFiles": [
+<<<<<<< HEAD
     {
       "basename": "Installation",
       "path": "01 - Projects/ArchInstall/Basic/Installation.md"
@@ -200,6 +201,8 @@
       "basename": "Questions -Predicted",
       "path": "01 - Projects/Operation Pass KNEC/DBMS/Final Stretch/Questions -Predicted.md"
     }
+=======
+>>>>>>> origin/main
   ],
   "omittedPaths": [],
   "maxLength": null,

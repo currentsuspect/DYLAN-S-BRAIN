@@ -1,7 +1,11 @@
 {
 	"id": "homepage",
 	"name": "Homepage",
+<<<<<<< HEAD
 	"version": "4.0.2",
+=======
+	"version": "3.7.0",
+>>>>>>> origin/main
 	"minAppVersion": "1.4.10",
 	"description": "Open a specified note, canvas, or workspace on startup, or set it for quick access later.",
 	"author": "novov",
