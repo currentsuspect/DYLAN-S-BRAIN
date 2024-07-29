@@ -27,7 +27,7 @@
    - c) SELECT
    - d) RETRIEVE
 ?
-   **Answer:** c) SELECT
+   **Answer:** c) SELECT <!--SR:!2024-07-15,3,252-->
 
 
 **Q: In SQL, which keyword is used to specify a condition while retrieving data? (1 mark)**
@@ -45,7 +45,7 @@
    - c) Atomicity, Concurrency, Isolation, Durability
    - d) Accuracy, Concurrency, Integrity, Durability
    ?
-   **Answer:** a) Atomicity, Consistency, Isolation, Durability
+   **Answer:** a) Atomicity, Consistency, Isolation, Durability <!--SR:!2024-07-28,12,272-->
 
 
 **Q: Which normal form ensures that there are no partial dependencies of any attribute on the primary key? (1 mark)**
@@ -111,7 +111,7 @@
 
 **5. A view in SQL is a virtual table based on the result-set of an SQL statement. (1 mark)**
 ?
-   **Answer:** True
+   **Answer:** True <!--SR:!2024-07-27,11,270-->
 
 **6. In a relational database, a row is also known as a tuple. (1 mark)**
 ?
@@ -127,12 +127,11 @@
 
 **9. A clustered index rearranges the way records in the table are physically stored. (1 mark)**
 ?
-   **Answer:** True
+   **Answer:** True <!--SR:!2024-07-13,3,250-->
 
 **10. Data integrity constraints are used to ensure accuracy and consistency of data in a database. (1 mark)**
-    - True
 ?
-**Answer:** True
+**Answer:** True <!--SR:!2024-07-25,9,250-->
 
 #### Section C: Short Answer Questions (30 marks)
 

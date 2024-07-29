@@ -12,5 +12,7 @@
   "autoPairBrackets": false,
   "readableLineLength": true,
   "spellcheck": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "vimMode": true,
+  "showLineNumber": true
 }

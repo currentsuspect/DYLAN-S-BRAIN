@@ -1,5 +1,3 @@
-Sure, Dylan! Here’s another full-length mock exam for Database Management Systems (DBMS) covering different areas. This mock exam will include multiple-choice, true/false, short answer, and essay questions, along with a detailed marking scheme and explanations for each question.
-
 ### Mock Exam: Database Management Systems
 
 #### Section A: Multiple Choice Questions (20 marks)
@@ -52,7 +50,7 @@ Sure, Dylan! Here’s another full-length mock exam for Database Management Syst
    - c) UNIQUE CONSTRAINT
    - d) DEFAULT CONSTRAINT
 ?
-   **Answer:** a) PRIMARY KEY
+   **Answer:** a) PRIMARY KEY <!--SR:!2024-07-26,10,270-->
 
 
 **7. What is the purpose of normalization in databases? (1 mark)**
@@ -70,7 +68,7 @@ Sure, Dylan! Here’s another full-length mock exam for Database Management Syst
    - c) A field that is used for indexing
    - d) A field that contains foreign data
 ?
-   **Answer:** b) A field that links to the primary key of another table
+   **Answer:** b) A field that links to the primary key of another table <!--SR:!2024-07-30,14,292-->
 
 
 **9. Which of the following is used to establish a relationship between tables? (1 mark)**
@@ -235,7 +233,7 @@ Sure, Dylan! Here’s another full-length mock exam for Database Management Syst
   - **Secondary Index:** Created on non-primary key columns. Improves performance on frequently searched columns.
   - **Clustered Index:** Orders the physical data in the table based on the indexed column. A table can have only one clustered index.
   - **Non-Clustered Index:** Creates a separate structure for the index, which points to the actual data. A table can have multiple non-clustered indexes.
-  - **Composite Index:** An index on multiple columns. Useful for queries involving multiple conditions.
+  - **Composite Index:** An index on multiple columns. Useful for queries involving multiple conditions. <!--SR:!2024-07-22,6,252-->
 
 #### Section D: Essay Questions (40 marks)
 
@@ -307,7 +305,7 @@ Sure, Dylan! Here’s another full-length mock exam for Database Management Syst
 - **Importance of Backup and Recovery:**
   - **Data Protection:** Safeguards against data loss due to hardware failure, human error, or disasters.
   - **Business Continuity:** Ensures the availability of critical data and minimizes downtime.
-  - **Compliance:** Meets regulatory requirements for data retention and protection.
+  - **Compliance:** Meets regulatory requirements for data retention and protection. <!--SR:!2024-07-23,7,268-->
 
 
 #DBMS 

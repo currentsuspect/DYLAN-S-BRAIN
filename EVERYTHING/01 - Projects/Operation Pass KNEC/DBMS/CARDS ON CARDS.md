@@ -96,13 +96,13 @@ Answer:
 
 **Question:** What is meant by "architecture" in the context of computer systems?
 ?
-**Answer:** Architecture in computer systems refers to the fundamental structure or organization of a system, including its components, relationships, and principles governing their interaction.
+**Answer:** Architecture in computer systems refers to the fundamental structure or organization of a system, including its components, relationships, and principles governing their interaction. <!--SR:!2024-07-19,3,247-->
 
 ---
 
 **Question:** Define client-server architecture. What are its main components?
 ?
-**Answer:** Client-server architecture divides system functionality into client and server roles. Clients request services or resources from servers over a network. Components include clients (user interfaces or applications) and servers (hosts providing services).
+**Answer:** Client-server architecture divides system functionality into client and server roles. Clients request services or resources from servers over a network. Components include clients (user interfaces or applications) and servers (hosts providing services). <!--SR:!2024-07-28,12,270-->
 
 ---
 
@@ -169,7 +169,7 @@ Answer:
 
 **Question:** Explain the purpose of the `CREATE TABLE` statement in DDL.
 ?
-**Answer:** `CREATE TABLE` is used to define a new table in the database, specifying its columns, data types, constraints, and indexes.
+**Answer:** `CREATE TABLE` is used to define a new table in the database, specifying its columns, data types, constraints, and indexes. <!--SR:!2024-07-15,3,265-->
 
 ---
 
@@ -187,13 +187,13 @@ Answer:
 
 **Question:** What is Data Manipulation Language (DML) used for in databases?
 ?
-**Answer:** DML is used to manage and manipulate data within database objects, such as inserting, updating, deleting, and querying data.
+**Answer:** DML is used to manage and manipulate data within database objects, such as inserting, updating, deleting, and querying data. <!--SR:!2024-07-23,7,266-->
 
 ---
 
 **Question:** Give examples of common DML commands.
 ?
-**Answer:** Examples include `INSERT`, `UPDATE`, `DELETE`, and `SELECT`.
+**Answer:** Examples include `INSERT`, `UPDATE`, `DELETE`, and `SELECT`. <!--SR:!2024-07-24,8,250-->
 
 ---
 
@@ -217,7 +217,7 @@ Answer:
 
 **Question:** How does the `SELECT` command function in DML?
 ?
-**Answer:** `SELECT` retrieves data from one or more tables in the database based on specified criteria, returning a result set.
+**Answer:** `SELECT` retrieves data from one or more tables in the database based on specified criteria, returning a result set. <!--SR:!2024-07-23,7,265-->
 
 ---
 
@@ -253,29 +253,29 @@ Answer:
 ?
 **A:** The primary purpose of a data dictionary is to provide a comprehensive and organized description of the data elements in a database. It helps ensure consistency, accuracy, and integrity of data by documenting definitions, formats, constraints, and relationships. It also aids in data management, database design, development, and maintenance processes.
 
-**Q:** What are the key components typically found in a data dictionary?  
+**Q:** What are the key components typically found in a data dictionary?
 ?
-**A:** A data dictionary typically includes information such as data element names and aliases, data types and formats, descriptions and definitions, constraints (e.g., nullability, uniqueness), relationships between data elements, source or origin of data, usage and access rights, and metadata related to data governance and data stewardship.
+**A:** A data dictionary typically includes information such as data element names and aliases, data types and formats, descriptions and definitions, constraints (e.g., nullability, uniqueness), relationships between data elements, source or origin of data, usage and access rights, and metadata related to data governance and data stewardship. <!--SR:!2024-07-22,6,250-->
 
 **Q**: How does a data dictionary help in ensuring data integrity within a database?  
 ?
 **A**: By documenting data definitions, constraints, and relationships, a data dictionary helps enforce data integrity rules. It ensures that data stored in the database remains accurate, consistent, and valid according to predefined criteria. It provides a clear understanding of how data should be structured and managed, reducing the risk of data anomalies or inconsistencies.
 
-**Q:** Describe the role of a data dictionary in database design and development processes.  
+**Q:** Describe the role of a data dictionary in database design and development processes.
 ?
-**A:** In database design, a data dictionary serves as a blueprint for defining tables, columns, relationships, and constraints. It guides database architects and developers in designing a well-structured database schema that meets business requirements. During development, it provides essential information for implementing and testing database applications, ensuring they adhere to data standards and guidelines.
+**A:** In database design, a data dictionary serves as a blueprint for defining tables, columns, relationships, and constraints. It guides database architects and developers in designing a well-structured database schema that meets business requirements. During development, it provides essential information for implementing and testing database applications, ensuring they adhere to data standards and guidelines. <!--SR:!2024-07-13,3,250-->
 
-**Q:** How does a data dictionary assist in data management and administration tasks?  
+**Q:** How does a data dictionary assist in data management and administration tasks?
 ?
-**A:** Data dictionaries facilitate data management by providing a centralized reference for database administrators (DBAs) to understand and maintain the database structure. DBAs use it for tasks such as schema modifications, performance tuning, security management, and troubleshooting. It also supports data governance initiatives by ensuring data quality, compliance, and effective data stewardship.
+**A:** Data dictionaries facilitate data management by providing a centralized reference for database administrators (DBAs) to understand and maintain the database structure. DBAs use it for tasks such as schema modifications, performance tuning, security management, and troubleshooting. It also supports data governance initiatives by ensuring data quality, compliance, and effective data stewardship. <!--SR:!2024-07-18,2,206-->
 
 **Q:** Discuss the difference between a data dictionary and a database schema. 
 ?
 **A:** While a data dictionary stores metadata about data elements, a database schema defines the structure and organization of the database itself. The schema includes tables, views, indexes, relationships, and other database objects. The data dictionary provides detailed descriptions and definitions of each data element within the schema, serving as a complementary tool for understanding and managing the database structure.
 
-**Q:** What information about each data element is typically stored in a data dictionary?  
+**Q:** What information about each data element is typically stored in a data dictionary?
 ?
-**A:** A data dictionary typically stores information such as the data element's name, description, data type, length, format, constraints (e.g., nullability, default values), relationships to other data elements, and usage guidelines. It may also include metadata related to data governance, ownership, and stewardship responsibilities.
+**A:** A data dictionary typically stores information such as the data element's name, description, data type, length, format, constraints (e.g., nullability, default values), relationships to other data elements, and usage guidelines. It may also include metadata related to data governance, ownership, and stewardship responsibilities. <!--SR:!2024-07-17,1,210-->
 
 **Q:** How can a data dictionary facilitate data standardization and consistency across an organization? 
 ?
@@ -325,7 +325,7 @@ Certainly! Here are some questions on normalization up to Third Normal Form (3NF
 
 **Q: Why is it important to eliminate anomalies in database tables through normalization?**
 ?
-**A:** Anomalies (insertion, update, and deletion) can lead to inconsistencies and data integrity issues. Normalization reduces anomalies by structuring data tables properly.
+**A:** Anomalies (insertion, update, and deletion) can lead to inconsistencies and data integrity issues. Normalization reduces anomalies by structuring data tables properly. <!--SR:!2024-07-13,2,230-->
 
 **Q: Describe the benefits of achieving Third Normal Form (3NF) in database design.** 
 ?
@@ -336,7 +336,6 @@ Certainly! Here are 5 practical questions related to normalization:
 ---
 
 **Q: Given the following unnormalized table, normalize it up to Third Normal Form (3NF). Explain each normalization step.**
-?
 ```
 StudentCourses
 ---------------------------
@@ -347,7 +346,8 @@ StudentID   |   StudentName   |   CourseID   |   CourseName   |   Instructor
 101         |   John Doe      |   MATH201    |   Calculus II   |   Dr. Johnson
 103         |   Alice Brown   |   CSCI101    |   Introduction to Computer Science   |   Prof. Smith
 ```
-**A:** 
+?
+**A:**
 1. **First Normal Form (1NF):** Ensure atomic values and unique column names.
    - StudentCourses Table (1NF):
      ```
@@ -440,7 +440,7 @@ Certainly! Here are some questions on trends in Database Management System (DBMS
 
 **Q: Explain the concept of cloud-native databases and their impact on modern application development.**
 ?
-**A:** Cloud-native databases are designed specifically for cloud environments, offering scalability, flexibility, and accessibility. They support microservices architectures, containerization, and serverless computing, enabling rapid application development and deployment with minimal infrastructure management.
+**A:** Cloud-native databases are designed specifically for cloud environments, offering scalability, flexibility, and accessibility. They support microservices architectures, containerization, and serverless computing, enabling rapid application development and deployment with minimal infrastructure management. <!--SR:!2024-07-20,4,245-->
 
 **Q: How are NoSQL databases different from traditional relational databases, and why are they gaining popularity?**
 ?
@@ -464,11 +464,11 @@ Certainly! Here are some questions on trends in Database Management System (DBMS
 
 **Q: How do blockchain databases differ from traditional databases, and what applications are they suited for?**
 ?
-**A:** Blockchain databases use a distributed ledger technology to store data in a decentralized and tamper-evident manner. They ensure data immutability, transparency, and trustworthiness, making them suitable for applications such as cryptocurrency transactions, supply chain management, voting systems, and digital asset tracking.
+**A:** Blockchain databases use a distributed ledger technology to store data in a decentralized and tamper-evident manner. They ensure data immutability, transparency, and trustworthiness, making them suitable for applications such as cryptocurrency transactions, supply chain management, voting systems, and digital asset tracking. <!--SR:!2024-07-27,11,270-->
 
 **Q: Discuss the challenges and considerations in adopting multi-model databases in enterprise environments.**
 ?
-**A:** Multi-model databases support multiple data models (e.g., relational, document, graph) within a single integrated platform. Challenges include complexity in data modeling, query optimization across different models, and maintaining data consistency. Considerations include use case suitability, scalability requirements, and integration with existing IT infrastructure.
+**A:** Multi-model databases support multiple data models (e.g., relational, document, graph) within a single integrated platform. Challenges include complexity in data modeling, query optimization across different models, and maintaining data consistency. Considerations include use case suitability, scalability requirements, and integration with existing IT infrastructure. <!--SR:!2024-07-20,4,246-->
 
 **Q: How are DBMS vendors addressing the increasing demand for data privacy and security in their products?**
 ?

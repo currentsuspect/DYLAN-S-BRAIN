@@ -1,11 +1,15 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "BoBxsHappyBeaming",
+      "BoBxAlarmExclamation",
+      "BoBxlProductHunt"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
@@ -57,16 +61,16 @@
         "order": 7
       },
       {
-        "rule": "- Archives",
-        "icon": "BoBxsArchive",
-        "for": "folders",
-        "order": 9
-      },
-      {
         "rule": "- Permanent",
         "icon": "BoBxsFile",
         "for": "everything",
         "order": 8
+      },
+      {
+        "rule": "- Archives",
+        "icon": "BoBxsArchive",
+        "for": "folders",
+        "order": 9
       }
     ],
     "extraMargin": {
@@ -79,6 +83,15 @@
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true
-  }
+    "iconsInNotesEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "01 - Projects": "BoBxlProductHunt",
+  "01 - Projects/Operation Pass KNEC": "BoBxAlarmExclamation",
+  "!.md": "BoBxsHappyBeaming"
 }

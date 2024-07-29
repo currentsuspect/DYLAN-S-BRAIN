@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2f8b12f7edf03e93",
+        "id": "133176a12b99525b",
         "type": "tabs",
         "children": [
           {
-            "id": "ad05f3c9a2295b3e",
+            "id": "bd44d51b6f9842f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/MAIN/20240626.md",
+                "file": "01 - Projects/ArchInstall/yay pacman/Course.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a05256be25d73fcd",
+            "id": "9bd875c8caa4002a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Fleeting/Self Therapy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c4d6f963495e322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Permanent/Philosophy/Biases/Introduction to Cognitive Biases.md",
+                "file": "01 - Projects/ArchInstall/Basic/Installation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#SystemAnalysis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Permanent/Philosophy/Biases/Introduction to Cognitive Biases.md",
+                "file": "01 - Projects/ArchInstall/Basic/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/Philosophy/Biases/Introduction to Cognitive Biases.md",
+                "file": "01 - Projects/ArchInstall/Basic/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Permanent/Philosophy/Biases/Introduction to Cognitive Biases.md"
+                "file": "01 - Projects/ArchInstall/Basic/Installation.md"
               }
             }
           },
@@ -182,7 +170,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,41 +192,57 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "64cb1d2052328df7",
   "lastOpenFiles": [
-    "04 - Permanent/Philosophy/Logic",
-    "04 - Permanent/Philosophy/Biases",
-    "1.md",
-    "04 - Permanent/Philosophy/Biases/Introduction to Cognitive Biases.md",
-    "04 - Permanent/Philosophy/Biases/Biases.md",
-    "05 - Fleeting/changelog june 2024.md",
-    "05 - Fleeting/Self Therapy.md",
-    "01 - Projects/ECHOES AND EUPHORIA/DOCUMENTARY.md",
-    "06 - Daily/MAIN/20240627.md",
-    "06 - Daily/MAIN/20240626.md",
-    "01 - Projects/Operation Pass KNEC/Stategy.md",
-    "01 - Projects/Urban Bloom/Project works.md",
-    "01 - Projects/Urban Bloom/JULY 20 PROJECTION.md",
-    "01 - Projects/Urban Bloom/Meeting 22.06.24.md",
-    "01 - Projects/Operation Pass KNEC/OOP-C++/Encapsulation.md",
-    "06 - Daily/MAIN/tables.md",
-    "01 - Projects/Operation Pass KNEC/OOP-C++/Introduction to OOP.md",
-    "01 - Projects/Operation Pass KNEC/OOP-C++/Basics of C++.md",
+    "06 - Daily/MAIN/20240729.md",
+    "01 - Projects/ArchInstall/yay pacman/Course.md",
+    "01 - Projects/ArchInstall/Basic/Installation.md",
+    "01 - Projects/ArchInstall/yay pacman",
+    "03 - Resources/Book Recom/TLCL-19.01.pdf",
+    "03 - Resources/Book Recom/New.md",
+    "01 - Projects/ArchInstall/fdisk/Course.md",
+    "01 - Projects/ArchInstall/iwctl/Course.md",
+    "01 - Projects/ArchInstall/fdisk",
+    "01 - Projects/ArchInstall/iwctl",
+    "06 - Daily/MAIN/20240728.md",
+    "01 - Projects/ArchInstall/Basic",
+    "01 - Projects/ArchInstall",
+    "01 - Projects/Thing Called Life/Timetable and Tips.md",
+    "03 - Resources/NEO VIM/Tutorial.md",
+    "06 - Daily/MAIN/20240727.md",
+    "03 - Resources/Book Recom/2017 Nemeth Evi etal - UNIX and Linux System Administration Handbook[5thED]_Rell.pdf",
+    "06 - Daily/MAIN/20240726.md",
+    "01 - Projects/Thing Called Life",
+    "01 - Projects/Operation Pass KNEC/Visual Basic/Vb 6.md",
+    "06 - Daily/MAIN/20240723.md",
+    "01 - Projects/Operation Pass KNEC/Visual Basic",
+    "01 - Projects/Operation Pass KNEC/quantitative analysis/Formulaes.md",
+    "06 - Daily/MAIN/20240722.md",
+    "01 - Projects/Operation Pass KNEC/Schema/Operation Pass KNEC.md",
+    "01 - Projects/Operation Pass KNEC/Schema/How To Answer Questions.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/Guide/questions/Knec.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/Guide/questions/questions.md",
     "01 - Projects/Operation Pass KNEC/OOP-C++/Table Of Content.md",
-    "01 - Projects/Operation Pass KNEC/OOP-C++",
-    "06 - Daily/MAIN/20240625.md",
-    "06 - Daily/MAIN/20240614.md",
-    "06 - Daily/MAIN/20240622.md",
-    "06 - Daily/MAIN/20240620.md",
-    "01 - Projects/Operation Pass KNEC",
-    "06 - Daily/MAIN/20240615.md",
-    "01 - Projects/Urban Bloom",
-    "02 - Areas/Ethical Hacking/OS Detection.md",
-    "02 - Areas/Coding/Python/Basic Python Syntax.md",
-    "02 - Areas/Ethical Hacking/Host Discovery and Target Specification.md",
-    "02 - Areas/Ethical Hacking"
+    "01 - Projects/Operation Pass KNEC/OOP-C++/Classes and Objects.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/Basics of C++.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/Introduction to OOP.md",
+    "06 - Daily/MAIN/20240721.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/TOC/OOP Concepts Fully Explained.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/TOC/Table Of Content.md",
+    "01 - Projects/Operation Pass KNEC/OOP-C++/TOC",
+    "99 - Meta/Bin/Pasted image 20240718162329.png",
+    "99 - Meta/Bin/Pasted image 20240718161224.png",
+    "99 - Meta/Bin/Pasted image 20240718154545.png",
+    "99 - Meta/Bin/Pasted image 20240718154448.png",
+    "99 - Meta/Bin/Pasted image 20240718155203.png",
+    "99 - Meta/Bin/Pasted image 20240718154948.png",
+    "99 - Meta/Bin/Pasted image 20240718153305.png",
+    "99 - Meta/Bin/Pasted image 20240718151245.png",
+    "99 - Meta/Bin/Pasted image 20240718101524.png",
+    "99 - Meta/Bin/Pasted image 20240708124704.png"
   ]
 }

@@ -40,7 +40,7 @@
    - **Atomicity:** Ensures that all operations within a transaction are completed successfully. If any part of the transaction fails, the entire transaction is rolled back.
    - **Consistency:** Ensures that a transaction takes the database from one consistent state to another, maintaining the integrity of the database.
    - **Isolation:** Ensures that the operations of one transaction are isolated from those of other transactions. This prevents transactions from interfering with each other.
-   - **Durability:** Ensures that once a transaction is committed, it will remain so, even in the event of a system failure.
+   - **Durability:** Ensures that once a transaction is committed, it will remain so, even in the event of a system failure. <!--SR:!2024-07-16,4,270-->
 
 **Q: Discuss the differences between OLTP (Online Transaction Processing) and OLAP (Online Analytical Processing) systems.**
 ?
