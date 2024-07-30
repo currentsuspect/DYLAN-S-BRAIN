@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2a23bd53d0cf78b6",
-        "type": "split",
+        "id": "e884599c9d6a2aea",
+        "type": "tabs",
         "children": [
           {
-            "id": "f9f06b7cd63bf5df",
-            "type": "tabs",
-            "dimension": 73.65900383141762,
-            "children": [
-              {
-                "id": "9bc44d91b0141293",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "EVERYTHING/00 - Maps of Content/EVERYTHING.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "eb6013eb8bdf101a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "EVERYTHING/00 - Maps of Content/!.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "f6f39db63712c04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "fae03b70280b0c69",
-            "type": "split",
-            "dimension": 26.340996168582375,
-            "children": [
-              {
-                "id": "d18bd9e348c7038b",
-                "type": "tabs",
-                "dimension": 57.702349869451695,
-                "children": [
-                  {
-                    "id": "c1355e32cd506bd5",
-                    "type": "leaf",
-                    "state": {
-                      "type": "calendar",
-                      "state": {}
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "0783ff6c14571c66",
-                "type": "tabs",
-                "dimension": 42.297650130548305,
-                "children": [
-                  {
-                    "id": "71376b0253f0eb1e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EVERYTHING/00 - Maps of Content/!.md",
+                "file": "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EVERYTHING/00 - Maps of Content/!.md",
+                "file": "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EVERYTHING/00 - Maps of Content/!.md"
+                "file": "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency.md"
               }
             }
           },
@@ -218,6 +159,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "73f2b988549dc887",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
@@ -247,11 +196,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb6013eb8bdf101a",
+  "active": "b0c1fa4f1ccc7902",
   "lastOpenFiles": [
-    "EVERYTHING/00 - Maps of Content/EVERYTHING.md",
-    "EVERYTHING/00 - Maps of Content/!.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency Exchanges.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency.md",
+    "EVERYTHING/02 - Areas/Cryptocurrency/Altcoins and Tokens.md",
+    "EVERYTHING/01 - Projects/ECHOES AND EUPHORIA/DOCUMENTARY.md",
     "EVERYTHING/01 - Projects/ECHOES AND EUPHORIA/Echoes And Euphoria (ALBUM).md",
+    "EVERYTHING/00 - Maps of Content/!.md",
+    "EVERYTHING/00 - Maps of Content/!.md",
+    "EVERYTHING/06 - Daily/2024-04-01.md",
+    "EVERYTHING/01 - Projects/ArchInstall/Basic/Installation.md",
+    "EVERYTHING/01 - Projects/ArchInstall/fdisk/Course.md",
+    "EVERYTHING/00 - Maps of Content/EVERYTHING.md",
     "EVERYTHING/06 - Daily/2024-04-20.md",
     "2024-04-21.md",
     "EVERYTHING/04 - Permanent/Psychology/Table of Content/PSYCHOLOGY.md",
@@ -266,15 +223,7 @@
     "EVERYTHING/02 - Areas/Git & Git Hub/Git & Git-hub.md",
     "EVERYTHING/06 - Daily/2024-04-15.md",
     "EVERYTHING/06 - Daily/2024-04-14.md",
-    "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency.md",
     "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency Mining.md",
-    "EVERYTHING/02 - Areas/Cryptocurrency/Regulation and Legal Considerations.md",
-    "EVERYTHING/02 - Areas/Cryptocurrency/Wallets and Storage.md",
-    "EVERYTHING/02 - Areas/Cryptocurrency/Cryptocurrency Exchanges.md",
-    "EVERYTHING/02 - Areas/Cryptocurrency/Altcoins and Tokens.md",
-    "EVERYTHING/02 - Areas/Cryptocurrency/Major Cryptocurrencies.md",
-    "EVERYTHING/02 - Areas/Cryptocurrency/Understanding Blockchain Technology.md",
-    "EVERYTHING/02 - Areas/Cryptocurrency/Introduction to Cryptocurrency.md",
     "EVERYTHING/02 - Areas/Cryptocurrency",
     "EVERYTHING/04 - Permanent/Artificial Intelligence",
     "EVERYTHING/02 - Areas/Git & Git Hub",

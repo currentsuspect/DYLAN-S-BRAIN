@@ -1,3 +1,4 @@
+
 ### Arch Linux Installation Guide with Hyprland, Zsh, Vim, Tmux, and Ricing
 
 Hey Dylan! Let's dive into a detailed guide to install Arch Linux from scratch with Hyprland as your desktop manager, Zsh as your shell, Vim as your text editor, Tmux as a multiplexer, EXT4 for your filesystem, and GRUB as your bootloader. This guide will be super detailed, so you can understand every step and make your system look awesome!

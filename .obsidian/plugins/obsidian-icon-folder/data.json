@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPopcorn",
+      "LiBookOpen",
       "💭",
       "♎",
-      "LiCrown",
-      "LiBan",
-      "LiLock"
+      "LiCrown"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,8 +30,8 @@
   },
   "EVERYTHING/00 - Maps of Content": "LiMap",
   "EVERYTHING/01 - Projects": "LiBookOpen",
-  "EVERYTHING/03 - Resources": "🔎",
-  "EVERYTHING/05 - Fleeting": "💭",
+  "EVERYTHING/03 - Resources": "LiBookOpen",
+  "EVERYTHING/05 - Fleeting": "LiPopcorn",
   "EVERYTHING/07 - Archives": "LiArchiveX",
   "EVERYTHING/06 - Daily": "LiCalendarDays",
   "EVERYTHING/99 - Meta": "LiBan",
@@ -43,7 +43,6 @@
     "iconColor": "#0400ff"
   },
   "EVERYTHING/01 - Projects/ECHOES AND EUPHORIA/Echoes And Euphoria (ALBUM).md": "LiDisc",
-  "EVERYTHING/00 - Maps of Content/EVERYTHING.md": "LiHome",
   "EVERYTHING/05 - Fleeting/Self Therapy.md": "♎",
   "EVERYTHING/05 - Fleeting/My Agency In life.md": "💭"
 }
